@@ -1,4 +1,4 @@
-# Credit Card Behaviour Score Prediction (Finclub Summer 2025)
+# Credit Card Behaviour Score Prediction
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Model](https://img.shields.io/badge/Focus-F2--Score%20Optimization-blueviolet)
 
